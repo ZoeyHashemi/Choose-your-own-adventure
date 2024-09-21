@@ -1,3 +1,3 @@
 # The Goat Returns Home
 
-After rescuing Alil, Balil, and Ginger Stick, the goat led her children back home. 
+After rescuing Alil, Balil, and Ginger Stick, the goat led her children back home. But just as they reached the door, they heard a mysterious noise coming from inside...
