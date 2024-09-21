@@ -3,6 +3,7 @@ If you know the European fairy tale about the "Wolf and the Seven Kids" (a story
 
 Be aware of the word ash: this is the name of a Persian soup! You can read more about Persian ash (pronounced "aash," rhyming with English "gosh"), at Wikipedia.
 What will happen next in this story? How will the characters interact, and what surprises lie ahead?
+
 The Wolf and the Goat
 
 Once upon a time there was a time when there was no one but God.
@@ -22,3 +23,6 @@ The wolf shoved his hand in at the crack of the door, and when they saw that it 
 What happens next?
 1. [Black Eyes goes on a solo adventure](black-eyes-adventure.md)
 2. [The goat and her children return home safely](goat-returns.md)
+3. - [Run and find help](run_for_help.md)
+- [Stay hidden and wait](stay_hidden.md)
+
